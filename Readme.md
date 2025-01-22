@@ -35,4 +35,5 @@ If you use this code, please cite the following paper:
 
 ## References
 [1] H. Hu, H. S. Dhillon, and R. M. Buehrer, “Stochastic Geometry Analysis of Localizability in Vision-Based Geolocation Systems,” in *Asilomar Conference on Signals, Systems, and Computers*, Oct. 2023, pp. 871-876, available online at [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10477066).
+
 [2] H. Hu, H. S. Dhillon, and R. M. Buehrer, “Foundations of Vision-Based Localization: A New Approach to Localizability Analysis Using Stochastic Geometry,” arXiv preprint arXiv:2409.09525, available online at [arXiv](https://arxiv.org/abs/2409.09525).
